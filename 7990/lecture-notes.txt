@@ -1,0 +1,42 @@
+Reference Books:
+1. Michael J. Evans and Jeffrey S. Rosenthal, "Probability and Statistics - The Science of Uncertainty," University of Toronto, 2nd Edition.
+
+2. Elmasri, Navathe and Navathe, Sham, "Fundamentals of database systems," Pearson, 7th Edition, 2016
+
+3. Venkataramanan, Nataraj, & Shriram, Ashwin. (2017). Data Privacy. Portland: Chapman and Hall/CRC.
+
+4. Evrim Oral, "Surverying Sensitive Topics with Indirect Questioning," Intechopen, 2019
+
+
+
+Partial derivative
+https://www.youtube.com/watch?v=AXH9Xm6Rbfc&ab_channel=ProfessorDaveExplains
+
+Linear Regression
+https://www.youtube.com/watch?v=owI7zxCqNY0&ab_channel=dataminingincae
+
+https://www.youtube.com/watch?v=P8hT5nDai6A&ab_channel=TheOrganicChemistryTutor
+
+Perceptron
+
+https://www.youtube.com/watch?v=OFbnpY_k7js&ab_channel=FirstPrinciplesofComputerVision
+
+https://www.youtube.com/watch?v=RNYT9bECfOo&ab_channel=KindsonTheGenius
+
+https://www.youtube.com/watch?v=_ETavTWv3ok&ab_channel=FirstPrinciplesofComputerVision
+
+MLP
+https://www.youtube.com/watch?v=torNuKNLwBE&ab_channel=FirstPrinciplesofComputerVision
+
+https://www.youtube.com/watch?v=pbQtQ2Bdzf8&ab_channel=PowerH
+
+https://www.youtube.com/watch?v=sIX_9n-1UbM&ab_channel=FirstPrinciplesofComputerVision
+
+https://www.youtube.com/watch?v=dB-u77Y5a6A&ab_channel=MichiganOnline
+
+SVM
+https://www.youtube.com/watch?v=efR1C6CvhmE&ab_channel=StatQuestwithJoshStarmer
+
+https://www.youtube.com/watch?v=Lpr__X8zuE8&ab_channel=Serrano.Academy
+
+https://www.youtube.com/watch?v=ny1iZ5A8ilA&ab_channel=IntuitiveMachineLearning
