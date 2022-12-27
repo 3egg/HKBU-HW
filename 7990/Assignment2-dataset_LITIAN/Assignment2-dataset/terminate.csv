@@ -1,0 +1,46 @@
+id,avoidanceOfDisclosure,symptomSeverity,gender,income,terminate
+1,10,12,female,low,not terminate early
+2,8,14,male,low,not terminate early
+3,6,19,female,low,not terminate early
+4,9,22,female,low,not terminate early
+5,12,16,male,low,not terminate early
+6,1,18,female,medium,not terminate early
+7,4,17,male,low,not terminate early
+8,5,15,female,low,not terminate early
+9,9,14,male,low,not terminate early
+10,14,8,female,low,not terminate early
+11,11,7,female,medium,not terminate early
+12,16,9,male,high,not terminate early
+13,12,12,male,high,not terminate early
+14,15,15,male,high,not terminate early
+15,14,17,female,low,not terminate early
+16,2,18,male,low,not terminate early
+17,5,14,male,low,not terminate early
+18,7,13,female,medium,not terminate early
+19,13,10,female,high,not terminate early
+20,8,8,male,high,not terminate early
+21,5,4,female,low,not terminate early
+22,18,18,male,medium,not terminate early
+23,3,16,female,high,not terminate early
+24,4,19,female,high,not terminate early
+25,15,14,female,high,not terminate early
+26,22,15,male,low,terminate early
+27,18,14,male,low,terminate early
+28,16,8,male,high,terminate early
+29,5,9,male,high,terminate early
+30,19,11,male,medium,terminate early
+31,18,10,male,medium,terminate early
+32,16,4,male,medium,terminate early
+33,12,9,female,low,terminate early
+34,19,8,female,low,terminate early
+35,23,14,male,low,terminate early
+36,16,13,male,medium,terminate early
+37,15,12,female,high,terminate early
+38,9,8,male,low,terminate early
+39,12,4,male,low,terminate early
+40,16,6,female,medium,terminate early
+41,16,9,male,low,terminate early
+42,17,16,female,low,terminate early
+43,19,14,male,high,terminate early
+44,12,13,male,high,terminate early
+45,8,3,male,low,terminate early
